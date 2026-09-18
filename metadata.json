@@ -1,0 +1,6 @@
+{
+  "name": "Dayanara",
+  "description": "Chatbot con voz interactiva para asesoría jurídica en tipificación de corrupción y sistema seguro de denuncias anónimas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
